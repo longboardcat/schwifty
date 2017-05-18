@@ -1,0 +1,17 @@
+AllCops:
+  Exclude:
+    - 'bin/*'
+    - 'lib/ipfs_client/cli.rb'
+    - 'spec/test_manager.rb'
+
+Metrics/AbcSize:
+  Max: 25
+
+Metrics/LineLength:
+  Max: 120
+
+Metrics/MethodLength:
+  Max: 25
+
+Style/DotPosition:
+  Enabled: false

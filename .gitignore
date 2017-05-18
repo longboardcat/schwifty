@@ -1,0 +1,4 @@
+*.gem
+ipfs_objects.yaml
+ipfs_pinned_objects.yaml
+Gemfile.lock

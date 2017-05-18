@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+require 'bundler/setup'
+require 'schwifty'
+require 'pry'
+
+# Debugging shortcuts
+client = Schwifty::Client
+
+binding.pry
