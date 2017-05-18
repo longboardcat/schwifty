@@ -1,5 +1,7 @@
 # schwifty
 
+[![Build Status](https://travis-ci.org/longboardcat/schwifty.svg?branch=master)](https://travis-ci.org/longboardcat/schwifty)
+
 [ipfs][1] is a distributed file system that is content-addressed and uses keys (hashes) to files
 (objects). This repo uses the hash/object terminology consistent with the rest of ipfs docs.
 
